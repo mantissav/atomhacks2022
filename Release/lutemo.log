@@ -1,0 +1,29 @@
+﻿  main.c
+C:\Users\Light\source\repos\lutemo\main.c(13,16): warning C4026: function declared with formal parameter list
+C:\Users\Light\source\repos\lutemo\main.c(38,64): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Light\source\repos\lutemo\main.c(31,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\Light\source\repos\lutemo\main.c(69,73): warning C4244: 'initializing': conversion from 'cpFloat' to 'int', possible loss of data
+C:\Users\Light\source\repos\lutemo\main.c(75,58): warning C4244: '=': conversion from 'cpFloat' to 'int', possible loss of data
+C:\Users\Light\source\repos\lutemo\main.c(76,58): warning C4244: '=': conversion from 'cpFloat' to 'int', possible loss of data
+     Creating library C:\Users\Light\source\repos\lutemo\Release\lutemo.lib and object C:\Users\Light\source\repos\lutemo\Release\lutemo.exp
+  Generating code
+  2 of 594 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+chipmunk.lib(cpSpace.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpSpace.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpBody.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpBody.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpSpaceStep.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpSpaceStep.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(chipmunk.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(chipmunk.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpPolyShape.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpPolyShape.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpShape.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpShape.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpHashSet.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpHashSet.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpArbiter.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpArbiter.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpArray.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpArray.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpBBTree.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpBBTree.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpSpaceComponent.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpSpaceComponent.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpSpaceHash.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpSpaceHash.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpSpatialIndex.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpSpatialIndex.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpCollision.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpCollision.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+chipmunk.lib(cpRobust.obj) : warning LNK4099: PDB 'chipmunk.pdb' was not found with 'chipmunk.lib(cpRobust.obj)' or at 'C:\Users\Light\source\repos\lutemo\Release\chipmunk.pdb'; linking object as if no debug info
+  lutemo.vcxproj -> C:\Users\Light\source\repos\lutemo\Release\lutemo.exe

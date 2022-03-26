@@ -1,0 +1,28 @@
+﻿  main.c
+C:\Users\Light\source\repos\lutemo\mainheader.h(20,2): error C2061: syntax error: identifier 'physics_rect'
+C:\Users\Light\source\repos\lutemo\mainheader.h(21,1): error C2059: syntax error: '}'
+C:\Users\Light\source\repos\lutemo\mainheader.h(23,13): error C2143: syntax error: missing '{' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(9,20): error C2143: syntax error: missing '{' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(10,41): error C2143: syntax error: missing ')' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(10,41): error C2143: syntax error: missing '{' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(10,51): error C2059: syntax error: ')'
+C:\Users\Light\source\repos\lutemo\main.c(12,16): warning C4026: function declared with formal parameter list
+C:\Users\Light\source\repos\lutemo\main.c(23,3): error C2223: left of '->next' must point to struct/union
+C:\Users\Light\source\repos\lutemo\main.c(29,13): error C2143: syntax error: missing '{' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(33,14): error C2065: 'physics_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(33,29): error C2065: 'tmp_phy_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(33,61): error C2065: 'tmp_phy_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(33,48): error C2100: illegal indirection
+C:\Users\Light\source\repos\lutemo\main.c(33,63): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Light\source\repos\lutemo\main.c(33,63): error C2106: '=': left operand must be l-value
+C:\Users\Light\source\repos\lutemo\main.c(34,14): error C2065: 'tmp_phy_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(34,16): error C2223: left of '->loc_sz' must point to struct/union
+C:\Users\Light\source\repos\lutemo\main.c(34,73): warning C4244: 'initializing': conversion from 'cpFloat' to 'int', possible loss of data
+C:\Users\Light\source\repos\lutemo\main.c(35,14): error C2065: 'tmp_phy_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(35,16): error C2223: left of '->body' must point to struct/union
+C:\Users\Light\source\repos\lutemo\main.c(36,21): error C2065: 'tmp_phy_rect': undeclared identifier
+C:\Users\Light\source\repos\lutemo\main.c(36,21): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\Light\source\repos\lutemo\main.c(39,34): error C2143: syntax error: missing ')' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(39,34): error C2143: syntax error: missing '{' before '*'
+C:\Users\Light\source\repos\lutemo\main.c(39,44): error C2059: syntax error: ')'
+C:\Users\Light\source\repos\lutemo\main.c(39,46): error C2054: expected '(' to follow 'phy_rect'

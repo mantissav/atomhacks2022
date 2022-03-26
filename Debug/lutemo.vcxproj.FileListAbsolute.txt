@@ -1,0 +1,2 @@
+C:\Users\Light\source\repos\lutemo\Debug\lutemo.exe
+C:\Users\Light\source\repos\lutemo\Debug\lutemo.pdb
