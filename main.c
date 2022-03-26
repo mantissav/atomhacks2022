@@ -11,7 +11,7 @@ extern physics_rect* Create_PHY_Rect(cpVect position, cpVect size, float mass);
 extern void Update_PHY_Rect(physics_rect* phy_rect);
 
 int main(void) {//main is a macro that should init SDL
-	window = SDL_CreateWindow("test", 0, 100, 800, 800, 0);
+	window = SDL_CreateWindow("Lutemo", 0, 100, 800, 800, 0);
 	renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
 	//init chipmunk space
 	global_space = cpSpaceNew();
