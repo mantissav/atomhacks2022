@@ -47,7 +47,7 @@ int main(void) {//main is a macro that should init SDL
 				free(rects[i]);
 				rects[i] = NULL;
 			}
-			current = 0;
+			current = -1;
 		}
 		cpSpaceStep(global_space, 1.0 / 60.0);
 		SDL_RenderClear(renderer);
