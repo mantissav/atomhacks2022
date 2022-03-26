@@ -36,7 +36,10 @@ int main(void) {//main is a macro that should init SDL
 					return 0;
 		int tmp_x = 0, tmp_y = 0;
 		if (SDL_GetMouseState(&tmp_x, &tmp_y) & SDL_BUTTON_LMASK != 0) {
-			current += 1;
+			if (current < 511)
+				current += 1;
+			else
+				current = -1;
 			rects[current] = Create_PHY_Rect(cpv(tmp_x, tmp_y), cpv(50, 50), 5);
 		}
 		if (keyboard[SDL_SCANCODE_C]) {
